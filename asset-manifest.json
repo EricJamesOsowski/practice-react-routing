@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/practice-react-routing/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/practice-react-routing/static/js/main.08a96a64.chunk.js",
+    "main.js.map": "/practice-react-routing/static/js/main.08a96a64.chunk.js.map",
+    "runtime-main.js": "/practice-react-routing/static/js/runtime-main.42a93adb.js",
+    "runtime-main.js.map": "/practice-react-routing/static/js/runtime-main.42a93adb.js.map",
+    "static/js/2.272b6ef8.chunk.js": "/practice-react-routing/static/js/2.272b6ef8.chunk.js",
+    "static/js/2.272b6ef8.chunk.js.map": "/practice-react-routing/static/js/2.272b6ef8.chunk.js.map",
+    "static/js/3.b1a65075.chunk.js": "/practice-react-routing/static/js/3.b1a65075.chunk.js",
+    "static/js/3.b1a65075.chunk.js.map": "/practice-react-routing/static/js/3.b1a65075.chunk.js.map",
+    "index.html": "/practice-react-routing/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/practice-react-routing/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.272b6ef8.chunk.js.LICENSE.txt": "/practice-react-routing/static/js/2.272b6ef8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/practice-react-routing/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42a93adb.js",
+    "static/js/2.272b6ef8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.08a96a64.chunk.js"
+  ]
+}
